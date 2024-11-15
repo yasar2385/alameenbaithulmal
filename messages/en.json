@@ -1,0 +1,38 @@
+{
+    "NavbarLinks": {
+        "home": "Home",
+        "homeTitle": "Home page",
+        "about": "About",
+        "aboutTitle": "About page",
+        "profile": "Profile",
+        "profileTitle": "Profile page"
+    },
+    "HomePage": {
+        "title": "Al-Ameen Baithulmal Trust",
+        "subtitle": "Supporting communities through charitable initiatives and social welfare programs",
+        "features": {
+            "mission": {
+                "title": "Our Mission",
+                "description": "Dedicated to serving humanity through various charitable and social welfare programs"
+            },
+            "community": {
+                "title": "Community Support",
+                "description": "Building stronger communities through education, healthcare, and social services"
+            },
+            "charity": {
+                "title": "Charitable Programs",
+                "description": "Implementing sustainable charitable initiatives to help those in need"
+            },
+            "education": {
+                "title": "Education",
+                "description": "Promoting education and skill development for underprivileged communities"
+            }
+        }
+    },
+    "AboutPage": {
+        "title": "About"
+    },
+    "ProfilePage": {
+        "title": "Profile"
+    }
+}
