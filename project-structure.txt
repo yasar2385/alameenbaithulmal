@@ -1,0 +1,87 @@
+alameenbaithulmal/
+├── node_modules/
+├── public/
+│   ├── favicon.ico
+│   ├── images/
+│   │   ├── logo.png
+│   │   ├── heroes/
+│   │   └── gallery/
+│   └── fonts/
+├── src/
+│   ├── components/
+│   │   ├── common/
+│   │   │   ├── Button.tsx
+│   │   │   ├── Card.tsx
+│   │   │   ├── Input.tsx
+│   │   │   └── Loading.tsx
+│   │   ├── layout/
+│   │   │   ├── Footer.tsx
+│   │   │   ├── Header.tsx
+│   │   │   ├── Layout.tsx
+│   │   │   └── Navbar.tsx
+│   │   ├── home/
+│   │   │   ├── FeatureCard.tsx
+│   │   │   ├── HeroSection.tsx
+│   │   │   └── MissionSection.tsx
+│   │   ├── about/
+│   │   │   ├── TeamCard.tsx
+│   │   │   └── VisionSection.tsx
+│   │   ├── gallery/
+│   │   │   ├── ImageGrid.tsx
+│   │   │   └── ImageModal.tsx
+│   │   ├── members/
+│   │   │   ├── MemberCard.tsx
+│   │   │   └── MemberList.tsx
+│   │   └── donate/
+│   │       ├── DonationForm.tsx
+│   │       └── PaymentSection.tsx
+│   ├── pages/
+│   │   ├── _app.tsx
+│   │   ├── _document.tsx
+│   │   ├── index.tsx
+│   │   ├── about.tsx
+│   │   ├── gallery.tsx
+│   │   ├── members.tsx
+│   │   └── donate.tsx
+│   ├── styles/
+│   │   ├── globals.css
+│   │   └── components.css
+│   ├── types/
+│   │   ├── index.ts
+│   │   ├── member.ts
+│   │   ├── donation.ts
+│   │   └── gallery.ts
+│   ├── utils/
+│   │   ├── api.ts
+│   │   ├── constants.ts
+│   │   ├── helpers.ts
+│   │   └── validation.ts
+│   ├── hooks/
+│   │   ├── useAuth.ts
+│   │   ├── useDonation.ts
+│   │   └── useMembers.ts
+│   ├── context/
+│   │   └── AppContext.tsx
+│   └── config/
+│       └── site.ts
+├── .eslintrc.json
+├── .gitignore
+├── next.config.js
+├── package.json
+├── postcss.config.js
+├── README.md
+├── tailwind.config.ts
+└── tsconfig.json
+
+
+
+├── src/
+│   ├── app/
+│   │   ├── components/
+│   │   │   ├── Footer.js
+│   │   │   ├── Header.js
+│   │   │   ├── Layout.js
+│   │   │   └── Navbar.js
+│   │   ├──global.css
+│   │   ├──layout.js
+│   │   ├──page.js
